@@ -20,10 +20,6 @@ namespace NugetDemo
         {
             return a / b;
         }
-        public decimal Mul(int a, int b)
-        {
-            return a * b;
-        }
        
     }
 }
