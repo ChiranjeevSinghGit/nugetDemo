@@ -1,0 +1,7 @@
+c:\users\chiranjeev_singh\documents\visual studio 2013\Projects\NugetDemo\TestNuget\bin\Debug\TestNuget.exe.config
+c:\users\chiranjeev_singh\documents\visual studio 2013\Projects\NugetDemo\TestNuget\bin\Debug\TestNuget.exe
+c:\users\chiranjeev_singh\documents\visual studio 2013\Projects\NugetDemo\TestNuget\bin\Debug\TestNuget.pdb
+c:\users\chiranjeev_singh\documents\visual studio 2013\Projects\NugetDemo\TestNuget\bin\Debug\NugetDemo.dll
+c:\users\chiranjeev_singh\documents\visual studio 2013\Projects\NugetDemo\TestNuget\obj\Debug\TestNuget.csprojResolveAssemblyReference.cache
+c:\users\chiranjeev_singh\documents\visual studio 2013\Projects\NugetDemo\TestNuget\obj\Debug\TestNuget.exe
+c:\users\chiranjeev_singh\documents\visual studio 2013\Projects\NugetDemo\TestNuget\obj\Debug\TestNuget.pdb

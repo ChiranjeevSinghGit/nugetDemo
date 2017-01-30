@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FoxLearn.MyMath</id>
+    <version>1.0.1</version>
+    <title>MyMath</title>
+    <authors>CHIRANJEEV</authors>
+    <owners>CHIRANJEEV</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is a test nuget package</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Mymath FoxLearn</tags>
+  </metadata>
+  <files>
+    <file src="C:\Users\chiranjeev_singh\Documents\visual studio 2013\Projects\NugetDemo\NugetDemo\bin\Debug\NugetDemo.dll" target="lib"></file>
+  </files>
+</package>
